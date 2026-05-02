@@ -11,7 +11,9 @@ modélisation de données
 développement SQL avancé
 gestion et structuration d’une base de données complexe
 🧩 Fonctionnalités principales
+
 ✔️ Conception d’un schéma relationnel normalisé
+
 ✔️ Gestion de plusieurs tables interconnectées
 ✔️ Requêtes SQL avancées
 ✔️ Procédures stockées pour automatiser les traitements
